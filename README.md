@@ -24,7 +24,7 @@ pip install -r requirements.txt
 - Generate your own Hugging-Face API-Key from <a href="https://huggingface.co/settings/tokens">here</a>
 Replace your own API-keys in code line # 8,9
 ```
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "<Your HUGGING_FACE API KEY HERE>"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "<YOUR HUGGING_FACE API KEY HERE>"
 os.environ["SERPER_API_KEY"] = "<YOUR SERPER API KEY HERE>"
 ```
 
